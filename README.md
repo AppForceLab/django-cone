@@ -1,1 +1,1 @@
-# django-cone
+# django-conep
